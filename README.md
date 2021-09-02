@@ -1,9 +1,6 @@
 ### php 설치 방법
 
 1. php 7.1 다운로드
-
-   [php7.zip](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/296c2e93-440b-40eb-aeac-900ba8528f68/php7.zip)
-
 2. Windows 용 zip 파일 압축 해제
 3. **C:\** 에 php7 로 폴더 이름 변경
 4. **C:\Apache24\conf\httpd.conf** 에 php7 부분 주석 해제 후 수정
